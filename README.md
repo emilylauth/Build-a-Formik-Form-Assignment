@@ -1,7 +1,7 @@
 
 # Build A Formik Form
 
-Week 13 Assignment to build fundamental knowledge of implementing React
+Week 13 Assignment to build fundamental knowledge of implementing JSX.
 ## Installation
 
 The instructions for this assignment were as follows:
