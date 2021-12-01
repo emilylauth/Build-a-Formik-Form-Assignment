@@ -6,7 +6,7 @@ Week 13 Assignment to build fundamental knowledge of implementing React
 
 The instructions for this assignment were as follows:
 
-Using Formik
+"Using Formik
 Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
 
 Getting values in and out of the form state
@@ -47,7 +47,7 @@ The starter code can be found inside src/App.js
 
 Instructions:
 
-When you are finished, upload a link to this project to your GitHub repository.
+When you are finished, upload a link to this project to your GitHub repository."
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
