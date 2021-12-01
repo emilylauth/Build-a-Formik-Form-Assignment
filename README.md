@@ -6,15 +6,7 @@ Week 13 Assignment to build fundamental knowledge of implementing React
 
 The instructions for this assignment were as follows:
 
-"Using Formik
-Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
-
-Getting values in and out of the form state
-Validation and error messages
-Handling form submission
-By collecting all of the above in one place, Formik can keep things organized, making testing, refactoring, and reasoning your forms much easier.
-
-In this activity, you will be using npm to install React, Formik, and any other required libraries. This is different from the way you’ve been using React so far.
+"In this activity, you will be using npm to install React, Formik, and any other required libraries. This is different from the way you’ve been using React so far.
 
 Before you get started with this activity, you need to:
 
